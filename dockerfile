@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-CMD ["echo", "Bonjour depuis CMD"]
+CMD ["echo", "Bonjour depuis CMD et ma branch"]
